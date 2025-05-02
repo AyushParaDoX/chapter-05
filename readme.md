@@ -1,4 +1,3 @@
-Sahi hai bhai Ayush! Ab tu samajh gaya toh yeh lo — same explanation ab **English** mein short and clear version:
 
 ---
 
