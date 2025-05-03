@@ -87,3 +87,9 @@ why sets do not allow to dulpicate any existing value?
 > Hash table allows only one copy of each value (like a club with strict entry).
 so what will a programmer do when he want to work within dulpicative values?
 -> He can use list and tuples which allow us to work with multiple duplicative values.
+
+* Properties of python dictinaries:
+> it is inordered.
+> it is mutable.
+> it is indexed.
+> Cannot contain dulpicate keys.
