@@ -71,16 +71,13 @@ my_set.remove(2)
 | Example          | {"name": "Ayush"} | {1, 2, 3}              |
 
 ---
+### dictionary & sets use in when we make real world projects where we need to store the things like:
 
-Let me know if you want some small coding exercises to practice these concepts!
-
-dictionary & sets use in when we make real world projects where we need to store the things like:
----
-| Student data manager.|
-| Quiz app.|
-| To-do list.|
-| Visitor tracker.|
-| Email filter.|
+* Student data manager
+* Quiz app.
+* To-do list.
+* Visitor tracker.
+* Email filter.
 ---
 why sets do not allow to dulpicate any existing value?
 > Internally Python uses a hash table to store sets.
