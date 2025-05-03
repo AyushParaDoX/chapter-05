@@ -89,7 +89,7 @@ so what will a programmer do when he want to work within dulpicative values?
 -> He can use list and tuples which allow us to work with multiple duplicative values.
 
 * Properties of python dictinaries:
-> it is inordered.
+> it is unordered.
 > it is mutable.
 > it is indexed.
 > Cannot contain dulpicate keys.
